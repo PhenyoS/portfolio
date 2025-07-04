@@ -1,8 +1,8 @@
 # Data Analyst
 
 ### Education
-Physics, Advanced Diploma
-Physics, Diploma
+Physics, Advanced Diploma!
+Physics, Diploma!
 
 ### Work Experience
 Lab Assistant @ Tshwane University of Technology
